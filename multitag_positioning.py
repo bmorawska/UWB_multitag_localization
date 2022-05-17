@@ -126,7 +126,14 @@ if __name__ == "__main__":
     use_processing = True
 
     # IDs of the tags to position, add None to position the local tag as well.
-    tag_ids = [None, 0x672a, 0x674c, 0x675b]
+    tag_ids = [None, 
+               0x674c,
+               0x6757,
+               0x672a,
+               0x6e45,
+               0x6e04,
+               0x6744,
+               0x675b]
 
     # necessary data for calibration
     anchors = load_anchors()
