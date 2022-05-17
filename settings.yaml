@@ -1,0 +1,6 @@
+# Default settings -- CH: 5, bitrate: 110 kbit/s, prf: 64 MHz, plen: 1024 symbols, gain: 11.5 dB
+channel: 5                        # 1, 2, 3, 4, 5, 7
+bitrate: 6810_kbps                # 110_kbps, 6810_kbps, 850_kbps
+pulse_repetition_frequecy: 64_MHz # 16_MHz, 64_MHz
+preamble_length: 1024             # 64, 128, 256, 512, 1024, 2048
+gain: 10.0                        # from 0 to 33.5 every 0.5 db

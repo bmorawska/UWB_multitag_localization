@@ -1,0 +1,3 @@
+pypozyx
+pyyaml
+requests
